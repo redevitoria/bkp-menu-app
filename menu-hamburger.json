@@ -1,0 +1,617 @@
+{
+  "header": {
+      "label":"Página Inicial",
+      "page":
+          {
+              "name":"Cover",
+              "slug":"home/destaque"
+          }
+  },
+  "menu": [
+    {
+      "label":"Geral",
+      "colors": {
+        "light": "#617D8A",
+        "dark": "#57707C"
+      },
+      "text":"Mais Notícias",
+      "page":{
+          "name":"Editory",
+          "slug":"editories/geral"
+      },
+      "items": [
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Tragédia em Brumadinho",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "tragedia-em-brumadinho"
+              }
+            },
+            {
+              "label": "Riquezas de Norte a Sul",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "riquezas-de-norte-a-sul"
+              }
+            },
+            {
+              "label": "Especial Mulher",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "dia-internacional-da-mulher"
+              }
+            },
+            {
+              "label": "Especial Torta Capixaba",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "tradicao-e-sabor---especial-torta-capixaba"
+              }
+            },
+            {
+              "label": "Especial Educação",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "especial-educacao"
+              }
+            },
+            {
+              "label": "Adote uma Causa",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "instituto-americo-buaiz"
+              }
+            },
+            {
+              "label": "Chuva no Espírito Santo",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "chuva-no-espirito-santo"
+              }
+            },
+            {
+              "label": "Meio Ambiente",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "meio-ambiente"
+              }
+            },
+            {
+              "label": "Conflito EUA X IRÃ",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "conflito-eua-x-ira"
+              }
+            },
+            {
+              "label": "Coronavírus",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "coronavirus"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Entretenimento",
+      "colors": {
+        "light": "#F2453D",
+        "dark": "#D93E37"
+      },
+      "text":"Mais Notícias",
+      "page":{
+        "name":"Editory",
+        "slug":"editories/entretenimento"
+      },
+      "items": [
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Conexão Verão",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "conexao-verao"
+              }
+            },
+            {
+              "label": "Carnaval 2020",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "carnaval-2020"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Colunas",
+          "items": [
+            {
+              "label": "Pedro Permuy",
+              "link": "https://www.folhavitoria.com.br/cadernos/pedro-permuy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Polícia",
+      "colors": {
+        "light": "#785549",
+        "dark": "#6C4C42"
+      },
+      "text":"Mais Notícias",
+      "page":{
+          "name":"Editory",
+          "slug":"editories/policia"
+      }
+    },
+    {
+      "label":"Saúde",
+      "colors": {
+        "light": "#107C10",
+        "dark": "#0C6C0C"
+      },
+      "text":"Mais Notícias",
+      "page":{
+          "name":"Editory",
+          "slug":"editories/saude"
+      },
+      "items": [
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Especial Mente e Corpo",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "especial-corpo-e-mente"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Política",
+      "colors": {
+        "light": "#50AE54",
+        "dark": "#489C4B"
+      },
+      "text":"Mais Notícias",
+      "page":{
+          "name":"Editory",
+          "slug":"editories/politica"
+      }
+    },
+    {
+      "label":"Trabalho",
+      "colors": {
+        "light": "#657CEB",
+        "dark": "#5368ce"
+      },
+      "text":"Mais Notícias",
+      "page":{
+          "name":"Editory",
+          "slug":"editories/trabalho"
+      }
+    },
+    {
+      "label":"Economia",
+      "colors": {
+        "light": "#1FBCD3",
+        "dark": "#1CA9BD"
+      },
+      "text":"Mais Notícias",
+      "page":{
+        "name":"Editory",
+        "slug":"editories/economia"
+      },
+      "items": [
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Carreiras e Profissões",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "carreiras-e-profissoes"
+              }
+            },
+            {
+              "label": "Transformação Digital",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "transformacao-digital"
+              }
+            },
+            {
+              "label": "Nova Previdência",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "nova-previdencia"
+              }
+            },
+             {
+              "label": "Especial Mercado Imobiliário",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "especial-mercado-imobiliario"
+              }
+            },
+            {
+              "label": "Saque do FGTS",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "saque-do-fgts"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Colunas",
+          "items": [
+            {
+              "label": "Data Business",
+              "link": "https://www.folhavitoria.com.br/economia/data-business"
+            },
+            {
+              "label": "Mundo Imobiliário",
+              "link": "https://www.folhavitoria.com.br/economia/mundo-imobiliario"
+            },
+            {
+              "label": "Finanças de A a Z",
+              "link": "https://www.folhavitoria.com.br/economia/financas-de-a-a-z"
+            },
+            {
+              "label": "Agro Business",
+              "link": "https://www.folhavitoria.com.br/economia/agro-business"
+            },
+            {
+              "label": "Mercado Diário",
+              "link": "https://www.folhavitoria.com.br/economia/mercado-diario"
+            },
+            {
+              "label": "Faz a Conta",
+              "link": "https://www.folhavitoria.com.br/economia/faz-a-conta"
+            },
+            {
+              "label": "Pedro Permuy",
+              "link": "https://www.folhavitoria.com.br/cadernos/pedro-permuy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Esportes",
+      "colors": {
+        "light": "#FD9727",
+        "dark": "#E38823"
+      },
+      "text":"Mais Notícias",
+      "page":{
+        "name":"Editory",
+        "slug":"editories/esportes"
+      },
+      "items": [
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Geração Gamer",
+              "page": {
+                  "name": "ThemedCover",
+                  "slug": "geracao-gamer"
+              }
+            },
+            {
+              "label": "Circuito Rede Vitória de Tênis",
+              "page": {
+                  "name": "ThemedCover",
+                  "slug": "circuito-rede-vitoria-de-tenis"
+              }
+            },
+            {
+              "label": "Circuito Rede Vitória de Golf",
+              "page": {
+                  "name": "ThemedCover",
+                  "slug": "circuito-rede-vitoria-de-golf"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Vídeos",
+      "colors": {
+        "light": "#663FB4",
+        "dark": "#5C39A2"
+      },
+      "text":"Mais vídeos",
+      "page":{
+        "name":"Platform",
+        "slug":"tv-vitoria"
+      },
+      "items": [
+        {
+          "label": "TV Vitória",
+          "items": [
+            {
+              "label": "ES no Ar",
+              "page": {
+                  "name": "Program",
+                  "slug": "es-no-ar"
+              }
+            },
+            {
+              "label": "Fala Manhã",
+              "page": {
+                  "name": "Program",
+                  "slug": "fala-manha"
+              }
+            },
+            {
+              "label": "Balanço Geral",
+              "page": {
+                  "name": "Program",
+                  "slug": "balanco-geral"
+              }
+            },
+            {
+              "label": "Fala ES",
+              "page": {
+                  "name": "Program",
+                  "slug": "fala-es"
+              }
+            },
+            {
+              "label": "Cidade Alerta",
+              "page": {
+                  "name": "Program",
+                  "slug": "cidade-alerta"
+              }
+            },
+            {
+              "label": "Jornal da TV Vitória",
+              "page": {
+                  "name": "Program",
+                  "slug": "jornal-da-tv-vitoria"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Folha Vitória",
+          "items": [
+            {
+              "label": "De Olho no Poder",
+              "page": {
+                  "name": "Program",
+                  "slug": "de-olho-no-poder"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label":"Colunas",
+      "colors": {
+        "light": "#FDC02F",
+        "dark": "#E3AC2A"
+      },
+      "items":[
+        {
+          "label": "Helio Dórea",
+          "link": "https://www.folhavitoria.com.br/social/helio-dorea/"
+        },
+        {
+          "label": "Andrea Pena",
+          "link": "https://www.folhavitoria.com.br/social/andreapena/"
+        },
+        {
+          "label": "Mundo Business",
+          "link": "https://www.folhavitoria.com.br/economia/mundo-business/"
+        },
+        {
+          "label": "Resenhando",
+          "link": "https://www.folhavitoria.com.br/entretenimento/blogs/resenhando/"
+        },
+        {
+          "label": "Faz a Conta",
+          "link": "https://www.folhavitoria.com.br/economia/faz-a-conta/"
+        },
+        {
+          "label": "Pedro Permuy",
+          "link": "https://www.folhavitoria.com.br/cadernos/pedro-permuy/"
+        }
+      ]
+    },
+    {
+      "label":"Cidades",
+      "colors": {
+        "light": "#159587",
+        "dark": "#138679"
+      },
+      "items": [
+        {
+          "label": "Domingos Martins",
+          "page": {
+            "name": "Cover",
+            "slug": "cities/domingos_martins"
+          }
+        },
+        {
+          "label": "Guarapari",
+          "page": {
+            "name": "Cover",
+            "slug": "cities/guarapari"
+          }
+        },
+        {
+          "label": "Linhares",
+          "page": {
+            "name": "Cover",
+            "slug": "cities/linhares"
+          }
+        }
+      ]
+    },
+    {
+        "label":"Blogs",
+        "colors": {
+            "light": "#3A84C0",
+            "dark": "#3477AD"
+        },
+        "items": [
+             {
+                "label": "Geral",
+                "items": [
+                    {
+                        "label": "Livre Pensar",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/livrepensar"
+                    },
+                    {
+                        "label": "Mídia & Mercado",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/midiaemercado"
+                    },
+                    {
+                        "label": "Vem Ler Comigo",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/vem-ler-comigo"
+                    },
+                    {
+                        "label": "Bem Pensado",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/bem-pensado"
+                    },
+                    {
+                        "label": "Educatech",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/educatech"
+                    },
+                    {
+                        "label": "Gente e Gestão",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/gente-e-gestao"
+                    },
+                    {
+                        "label": "Português em Dia",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/portugues-em-dia"
+                    },
+                    {
+                        "label": "Economia Circular",
+                        "link": "https://www.folhavitoria.com.br/economia/blogs/economia-circular"
+                    },
+                    {
+                        "label": "Empregos e Concursos",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/empregoseconcursos"
+                    },
+                    {
+                        "label": "Pet Blog",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/petblog"
+                    },
+                    {
+                        "label": "Direito ao Direito",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/direito-ao-direito"
+                    },
+                    {
+                        "label": "Viva Mais",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/viva-mais"
+                    },
+                    {
+                        "label": "Momento Décor",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/momento-decor"
+                    },
+                    {
+                        "label": "Sexo e Prazer",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/virginia-pelles"
+                    },
+                    {
+                        "label": "Radar",
+                        "link": "https://www.folhavitoria.com.br/geral/blogs/radar"
+                    }
+                ]
+            },
+            {
+                "label": "Entretenimento",
+                "items": [
+                    {
+                        "label": "Na Balada",
+                        "link": "https://www.folhavitoria.com.br/entretenimento/blogs/na-balada"
+                    },
+                    {
+                        "label": "Folhinha Kids",
+                        "link": "https://www.folhavitoria.com.br/entretenimento/blogs/folhinha-kids"
+                    },
+                    {
+                        "label": "Espaço Gourmet",
+                        "link": "https://www.folhavitoria.com.br/entretenimento/blogs/espacogourmet"
+                    }
+                ]
+            },
+            {
+                "label": "Economia",
+                "items": [
+                    {
+                        "label": "Gestão e Resultados",
+                        "link": "https://www.folhavitoria.com.br/economia/blogs/gestaoeresultados/"
+                    },
+                    {
+                        "label": "Faz a Conta",
+                        "link": "https://www.folhavitoria.com.br/economia/blogs/faz-a-conta"
+                    }
+                ]
+            },
+            {
+                "label": "Saúde",
+                "items": [
+                    {
+                        "label": "Em Forma!",
+                        "link": "https://www.folhavitoria.com.br/saude/blogs/em-forma"
+                    }
+                ]
+            },
+            {
+                "label": "Política",
+                "items": [
+                    {
+                        "label": "De Olho no Poder",
+                        "link": "https://www.folhavitoria.com.br/politica/blogs/de-olho-no-poder"
+                    },
+                    {
+                        "label": "Esplanada",
+                        "link": "https://www.folhavitoria.com.br/politica/blogs/esplanada"
+                    }
+                ]
+            },
+            {
+                "label": "Esportes",
+                "items": [
+                    {
+                        "label": "Corrida de Rua",
+                        "link": "https://www.folhavitoria.com.br/esportes/blogs/corridaderua"
+                    },
+                    {
+                        "label": "No pique",
+                        "link": "https://www.folhavitoria.com.br/esportes/blogs/no-pique"
+                    },
+                    {
+                        "label": "Louca por Esportes",
+                        "link": "https://www.folhavitoria.com.br/esportes/blogs/loucaporesportes"
+                    }
+                ]
+            }
+        ]
+    }
+  ],
+  "footer": {
+    "label": "Favoritos",
+    "page": { 
+      "name": "Favorites"
+    }
+  }
+}
