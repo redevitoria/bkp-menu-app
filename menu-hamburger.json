@@ -23,74 +23,8 @@
           "label": "Especial",
           "items": [
             {
-              "label": "Tragédia em Brumadinho",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "tragedia-em-brumadinho"
-              }
-            },
-            {
-              "label": "Riquezas de Norte a Sul",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "riquezas-de-norte-a-sul"
-              }
-            },
-            {
-              "label": "Especial Mulher",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "dia-internacional-da-mulher"
-              }
-            },
-            {
-              "label": "Especial Torta Capixaba",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "tradicao-e-sabor---especial-torta-capixaba"
-              }
-            },
-            {
-              "label": "Especial Educação",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "especial-educacao"
-              }
-            },
-            {
-              "label": "Adote uma Causa",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "instituto-americo-buaiz"
-              }
-            },
-            {
-              "label": "Chuva no Espírito Santo",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "chuva-no-espirito-santo"
-              }
-            },
-            {
-              "label": "Meio Ambiente",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "meio-ambiente"
-              }
-            },
-            {
-              "label": "Conflito EUA X IRÃ",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "conflito-eua-x-ira"
-              }
-            },
-            {
-              "label": "Coronavírus",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "coronavirus"
-              }
+              "label": "Instituto Américo Buaiz",
+              "link": "https://institutoamericobuaiz.com.br/"
             }
           ]
         },
