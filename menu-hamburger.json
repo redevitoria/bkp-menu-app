@@ -170,18 +170,10 @@
         "name": "Editory",
         "slug": "editories/saude"
       },
-      "items": [
+      "items": [  
         {
-          "label": "Especial",
-          "items": [
-            {
-              "label": "Especial Mente e Corpo",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "especial-corpo-e-mente"
-              }
-            }
-          ]
+          "label": "Excelência em Saúde",
+          "link": "https://www.folhavitoria.com.br/saude/excelenciaemsaude/"
         }
       ]
     },
