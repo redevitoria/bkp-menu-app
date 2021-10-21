@@ -20,11 +20,31 @@
       },
       "items": [
         {
-          "label": "Especial",
+          "label": "Geral",
           "items": [
             {
               "label": "Instituto Américo Buaiz",
               "link": "https://institutoamericobuaiz.com.br/"
+            },
+            {
+              "label": "Publicidade Legal",
+              "link": "https://www.folhavitoria.com.br/publicidade-legal"
+            }
+          ]
+        },
+        {
+          "label": "Especial",
+          "items": [
+            {
+              "label": "Especial Educação 2021",
+              "page": {
+                "name": "ThemedCover",
+                "slug": "especial-educacao---filmes-e-trilhas-sonoras-inesqueciveis"
+              }
+            },
+            {
+              "label": "Marcas Ícones 2021",
+              "link": "https://www.folhavitoria.com.br/geral/premio-marcas-icones/"
             }
           ]
         },
@@ -52,21 +72,11 @@
       },
       "items": [
         {
-          "label": "Especial",
+          "label": "Hotsites",
           "items": [
             {
-              "label": "Conexão Verão",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "conexao-verao"
-              }
-            },
-            {
-              "label": "Carnaval 2020",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "carnaval-2020"
-              }
+              "label": "Chef de Família",
+              "link": "https://www.folhavitoria.com.br/entretenimento/chef-de-familia/"
             }
           ]
         },
@@ -104,7 +114,7 @@
         "name": "Editory",
         "slug": "editories/saude"
       },
-      "items": [  
+      "items": [
         {
           "label": "Excelência em Saúde",
           "link": "https://www.folhavitoria.com.br/saude/excelenciaemsaude/"
@@ -162,38 +172,10 @@
           "label": "Especial",
           "items": [
             {
-              "label": "Carreiras e Profissões",
+              "label": "OAB em Pauta",
               "page": {
                 "name": "ThemedCover",
-                "slug": "carreiras-e-profissoes"
-              }
-            },
-            {
-              "label": "Transformação Digital",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "transformacao-digital"
-              }
-            },
-            {
-              "label": "Nova Previdência",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "nova-previdencia"
-              }
-            },
-            {
-              "label": "Especial Mercado Imobiliário",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "especial-mercado-imobiliario"
-              }
-            },
-            {
-              "label": "Saque do FGTS",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "saque-do-fgts"
+                "slug": "oab-em-pauta"
               }
             }
           ]
@@ -224,10 +206,6 @@
             {
               "label": "Faz a Conta",
               "link": "https://www.folhavitoria.com.br/economia/faz-a-conta"
-            },
-            {
-              "label": "Pedro Permuy",
-              "link": "https://www.folhavitoria.com.br/cadernos/pedro-permuy"
             }
           ]
         }
@@ -243,35 +221,7 @@
       "page": {
         "name": "Editory",
         "slug": "editories/esportes"
-      },
-      "items": [
-        {
-          "label": "Especial",
-          "items": [
-            {
-              "label": "Geração Gamer",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "geracao-gamer"
-              }
-            },
-            {
-              "label": "Circuito Rede Vitória de Tênis",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "circuito-rede-vitoria-de-tenis"
-              }
-            },
-            {
-              "label": "Circuito Rede Vitória de Golf",
-              "page": {
-                "name": "ThemedCover",
-                "slug": "circuito-rede-vitoria-de-golf"
-              }
-            }
-          ]
-        }
-      ]
+      }
     },
     {
       "label": "Vídeos",
@@ -336,10 +286,10 @@
           "label": "Folha Vitória",
           "items": [
             {
-              "label": "De Olho no Poder",
+              "label": "Canais de Vídeo",
               "page": {
-                "name": "Program",
-                "slug": "de-olho-no-poder"
+                "name": "Platform",
+                "slug": "folha-vitoria"
               }
             }
           ]
@@ -497,6 +447,10 @@
               "link": "https://www.folhavitoria.com.br/entretenimento/blogs/folhinha-kids"
             },
             {
+              "label": "Folhinha Macakids",
+              "link": "https://www.folhavitoria.com.br/entretenimento/blogs/folhinha-macakids/"
+            },
+            {
               "label": "Espaço Gourmet",
               "link": "https://www.folhavitoria.com.br/entretenimento/blogs/espacogourmet"
             }
@@ -508,10 +462,6 @@
             {
               "label": "Gestão e Resultados",
               "link": "https://www.folhavitoria.com.br/economia/blogs/gestaoeresultados/"
-            },
-            {
-              "label": "Faz a Conta",
-              "link": "https://www.folhavitoria.com.br/economia/blogs/faz-a-conta"
             }
           ]
         },
