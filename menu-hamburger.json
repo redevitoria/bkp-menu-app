@@ -40,7 +40,7 @@
                     "label": "Especial",
                     "items": [
                         {
-                            "label": "Especial Educação 2021",
+                            "label": "Especial Educação 2022",
                             "page": {
                                 "name": "ThemedCover",
                                 "slug": "especial-educacao---filmes-e-trilhas-sonoras-inesqueciveis"
@@ -185,6 +185,10 @@
                         {
                             "label": "Espírito Startups",
                             "link": "https://www.folhavitoria.com.br/economia/espirito-startups"
+                        },
+                        {
+                            "label": "Prêmio Líder Empresarial",
+                            "link": "https://www.folhavitoria.com.br/economia/lider-empresarial/"
                         }
                     ]
                 },
@@ -229,6 +233,18 @@
             "page": {
                 "name": "Editory",
                 "slug": "editories/esportes"
+            }
+        },
+        {
+            "label": "Games",
+            "colors": {
+                "light": "#663FB4",
+                "dark": "#533392"
+            },
+            "text": "Mais Notícias",
+            "page": {
+                "name": "Editory",
+                "slug": "editories/games"
             }
         },
         {

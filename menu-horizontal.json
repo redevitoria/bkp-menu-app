@@ -84,6 +84,18 @@
         "slug": "editories/esportes"
       }
     },
+
+    {
+      "label": "Games",
+      "colors": {
+        "light": "#663FB4",
+        "dark": "#533392"
+      },
+      "page": {
+        "name": "Editory",
+        "slug": "editories/games"
+      }
+    },
     {
       "label": "Vídeos",
       "colors": {
@@ -140,7 +152,7 @@
         },
         {
           "label": "Momento Décor",
-          "link": "https://www.folhavitoria.com.br/geral/blogs/momento-decor"
+          "link": "https://www.folhavitoria.com.br/geral/colunas/momento-decor"
         },
         {
           "label": "De Olho no Poder",
